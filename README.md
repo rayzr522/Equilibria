@@ -1,5 +1,5 @@
 # Equilibria
-***Equilibria*** is a modern and balance modpack for Minecraft 1.10.2. It isn't a "kitchen sink" modpack, but it has plenty of content to keep the game interesting for quite a while.
+***Equilibria*** is a modern and balanced modpack for Minecraft 1.10.2. It isn't a "kitchen sink" modpack, but it has plenty of content to keep the game interesting for quite a while.
 
 For a mod list, please go to the [mod list page](MOD_LIST.md). All mod authors are properly credited.
 
