@@ -6,7 +6,9 @@ For a mod list, please go to the [mod list page](MOD_LIST.md). All mod authors a
 ### [FAQ](faq/INDEX.md)
 
 ## Join & Play
-For the download link and server IP, [join my Discord server](https://discord.io/rayzrdevofficial) and ask me about it.
+You can download this pack [via the Technic Launcher](https://www.technicpack.net/modpack/equilibria.949697).
+
+For the server IP, [join my Discord server](https://discord.io/rayzrdevofficial) and ask me about it.
 
 ## Server Rules
 1. **No griefing**
