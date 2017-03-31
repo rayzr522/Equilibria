@@ -11,9 +11,9 @@ For the download link and server IP, [join my Discord server](https://discord.io
 
 ![Terrain](previews/0-Terrain.png)
 ![Mekanism](previews/1-Mekanism.png)
-![Blood Magic](previews/2-Blood Magic.png)
-![Draconic Evolution](previews/3-Draconic Evolution.png)
-![Big Reactors](previews/4-Big Reactors.png)
+![Blood Magic](previews/2-Blood%20Magic.png)
+![Draconic Evolution](previews/3-Draconic%20Evolution.png)
+![Big Reactors](previews/4-Big%20Reactors.png)
 ![Botania](previews/5-Botania.png)
 ![Tinkers' Construct](previews/6-TConstruct.png)
 
