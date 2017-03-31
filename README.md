@@ -3,6 +3,8 @@
 
 For a mod list, please go to the [mod list page](MOD_LIST.md). All mod authors are properly credited.
 
+### [FAQ](faq/INDEX.md)
+
 ## Join & Play
 For the download link and server IP, [join my Discord server](https://discord.io/rayzrdevofficial) and ask me about it.
 
