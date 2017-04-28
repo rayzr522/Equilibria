@@ -1,3 +1,5 @@
+_I just updated the modpack and I haven't had a chance to update this yet. I'll get to this soon!_
+
 # Equilibria Mod List
 _Descriptions are mostly copied from CurseForge. It took me hours to come up with this list, please at least skim over it._
 
