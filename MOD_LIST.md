@@ -205,6 +205,9 @@
 ## [OpenBlocks Elevator](https://minecraft.curseforge.com/mc-mods/250832)
 **Author:** _VsnGamer_
 
+## [Optifine](http://optifine.net/)
+**Author:** _sp614x_
+
 ## [OreDictionaryConverter](https://minecraft.curseforge.com/mc-mods/227564)
 **Author:** _EXTER7_
 
