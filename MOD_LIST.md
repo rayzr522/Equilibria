@@ -60,6 +60,10 @@
 ## [CompatLayer](https://minecraft.curseforge.com/mc-mods/253729)
 **Author:** _McJty_
 
+## [ComputerCraft](https://minecraft.curseforge.com/mc-mods/67504)
+**Author:** _dan200_  
+**Note:** Despite the latest file being marked as 1.9 only, it is compatible with 1.10. There are some bugs however, but those are fixed with Unborked.
+
 ## [Cooking for Blockheads](https://minecraft.curseforge.com/mc-mods/231484)
 **Author:** _BlayTheNinth_
 
@@ -299,6 +303,9 @@
 
 ## [Tinkers Construct](https://minecraft.curseforge.com/mc-mods/74072)
 **Author:** _mDiyo_
+
+## [Unborked](https://dl.bintray.com/squiddev/maven/org/squiddev/unborked/1.10.2-1.80pr0-1.0.6/unborked-1.10.2-1.80pr0-1.0.6.jar)
+**Author:** _SquidDev_
 
 ## [Underp Hangables](https://minecraft.curseforge.com/mc-mods/240757)
 **Author:** _masa__
