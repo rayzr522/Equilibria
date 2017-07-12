@@ -8,14 +8,7 @@ For a mod list, please go to the [mod list page](MOD_LIST.md). All mod authors a
 ## Join & Play
 You can download this pack [via the Technic Launcher](https://www.technicpack.net/modpack/equilibria.949697).
 
-For the server IP, [join my Discord server](https://discord.io/rayzrdevofficial) and ask me about it.
-
-## Server Rules
-1. **No griefing**
-2. **No stealing**
-3. **Be nice**
-
-All the rules of [my discord server](https://discord.io/rayzrdevofficial) also apply, so make sure to read those too.
+> **Note:** The server for Equilibria is no longer being run, but it's still a great modpack for singleplayer.
 
 ## Screenshots
 
